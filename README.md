@@ -5,3 +5,8 @@
 ### only works on python3
 
 ## to clone use `git clone https://github.com/junepark678/pricechecker.git`
+
+
+## this does include gui 
+
+### please have tkinter install too.
