@@ -1,6 +1,6 @@
 # pricechecker
 
-## to install packages use command : `pip install -r modules`
+## to install packages use command : `pip install -r modules.txt`
 
 ### only works on python3
 
