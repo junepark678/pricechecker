@@ -9,4 +9,4 @@
 
 ## this does include gui 
 
-### please have tkinter install too.
+### please have tkinter installed too.
